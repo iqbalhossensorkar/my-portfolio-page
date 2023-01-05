@@ -178,7 +178,7 @@ main {
 
 .education-experiences {
     display: flex;
-    gap: 71px;
+    gap: 25px;
 }
 
 .summery-title {
@@ -187,6 +187,16 @@ main {
     font-size: 35px;
     margin-bottom: 115px;
     text-align: center;
+}
+
+.education {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.experiences {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .education-title {
@@ -209,9 +219,15 @@ main {
     color: #757575;
     margin-bottom: 20px;
 }
-.education-description{
+
+.education-description {
     font-weight: 400;
-font-size: 16px;
+    font-size: 16px;
     color: #757575;
-margin-bottom: 60px;
+    margin-bottom: 30px;
+}
+
+.resume-btn {
+    margin-top: 40px;
+    text-align: center;
 }

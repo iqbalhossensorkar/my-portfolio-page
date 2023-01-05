@@ -169,7 +169,49 @@ main {
     font-weight: 400;
     font-size: 16px;
 }
+
 /* summery style */
-.education-experiences{
+.summery {
+    padding: 130px 150px;
+    align-items: center;
+}
+
+.education-experiences {
     display: flex;
+    gap: 71px;
+}
+
+.summery-title {
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 115px;
+    text-align: center;
+}
+
+.education-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.education-sub-title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.education-paragraph {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.education-description{
+    font-weight: 400;
+font-size: 16px;
+    color: #757575;
+margin-bottom: 60px;
 }
